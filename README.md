@@ -6,6 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # deployed live site
 https://eduvault-app.netlify.app/
 
+// netlify
 
 ## Available Scripts
 
